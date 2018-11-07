@@ -5,26 +5,26 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".AuthenticatedUserActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/app_name"
+        android:text="User is already signed in"
         android:textSize="20sp" />
 
     <Button
-        android:id="@+id/button_analytics"
+        android:id="@+id/button_logout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Firebase Analytics" />
+        android:text="Logout" />
 
     <Button
-        android:id="@+id/button_auth"
+        android:id="@+id/button_delete_account"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Firebase Authentication" />
+        android:text="Delete account" />
 
 </LinearLayout>
