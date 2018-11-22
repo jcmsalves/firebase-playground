@@ -13,6 +13,8 @@ Each article will be tagged in the article_# format so it's easier to track all 
 
 2. [Firebase Android Playground - Authentication](https://medium.com/@jcmsalves/firebase-android-playground-authentication-a46c457ffa31 "Firebase Android Playground - Authentication")
 
+3. [Firebase Android Playground - Realtime Database](https://medium.com/@jcmsalves/firebase-android-playground-realtime-database-560d4e18404a "Firebase Android Playground - Realtime Database")
+
 ----
 
 If you have any cool ideas or suggestions feel free to open issues in the repo and I'll try to address in a future article.

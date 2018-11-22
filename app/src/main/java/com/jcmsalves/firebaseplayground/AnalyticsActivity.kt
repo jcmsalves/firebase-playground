@@ -3,8 +3,6 @@ package com.jcmsalves.firebaseplayground
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import com.google.firebase.analytics.FirebaseAnalytics
-import com.jcmsalves.firebaseplayground.R.id.button_custom_event
-import com.jcmsalves.firebaseplayground.R.id.button_firebase_event
 import kotlinx.android.synthetic.main.activity_analytics.*
 
 class AnalyticsActivity : AppCompatActivity() {
@@ -16,8 +14,8 @@ class AnalyticsActivity : AppCompatActivity() {
         setContentView(R.layout.activity_analytics)
 
         firebaseAnalytics = FirebaseAnalytics.getInstance(this)
-//        firebaseAnalytics.setUserProperty("my_test_user_property",
-//            "my test user property value")
+        firebaseAnalytics.setUserProperty("my_test_user_property",
+            "my test user property value")
 
         // Log Firebase Event
         button_firebase_event.setOnClickListener {
