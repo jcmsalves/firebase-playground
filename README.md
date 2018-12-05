@@ -15,6 +15,8 @@ Each article will be tagged in the article_# format so it's easier to track all 
 
 3. [Firebase Android Playground - Realtime Database](https://medium.com/@jcmsalves/firebase-android-playground-realtime-database-560d4e18404a "Firebase Android Playground - Realtime Database")
 
+4. [Firebase Android Playground - Cloud Messaging](https://medium.com/@jcmsalves/firebase-android-playground-cloud-messaging-f0f29648a3d2 "Firebase Android Playground - Cloud Messaging")
+
 ----
 
 If you have any cool ideas or suggestions feel free to open issues in the repo and I'll try to address in a future article.
