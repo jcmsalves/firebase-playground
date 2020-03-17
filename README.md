@@ -9,13 +9,13 @@ Each article will be tagged in the article_# format so it's easier to track all 
 ----
 
 ### Articles Index
-1. [Firebase Android Playground - setting up and Analytics](https://medium.com/@jcmsalves/firebase-android-playground-9f47a218e792 "Firebase Android Playground - setting up and Analytics")
+1. [Firebase Android Playground - setting up and Analytics](https://joaoalves.dev/posts/firebase-android-playground/setting-up/ "Firebase Android Playground - setting up and Analytics")
 
-2. [Firebase Android Playground - Authentication](https://medium.com/@jcmsalves/firebase-android-playground-authentication-a46c457ffa31 "Firebase Android Playground - Authentication")
+2. [Firebase Android Playground - Authentication](https://joaoalves.dev/posts/firebase-android-playground/authentication/ "Firebase Android Playground - Authentication")
 
-3. [Firebase Android Playground - Realtime Database](https://medium.com/@jcmsalves/firebase-android-playground-realtime-database-560d4e18404a "Firebase Android Playground - Realtime Database")
+3. [Firebase Android Playground - Realtime Database](https://joaoalves.dev/posts/firebase-android-playground/realtime-database/ "Firebase Android Playground - Realtime Database")
 
-4. [Firebase Android Playground - Cloud Messaging](https://medium.com/@jcmsalves/firebase-android-playground-cloud-messaging-f0f29648a3d2 "Firebase Android Playground - Cloud Messaging")
+4. [Firebase Android Playground - Cloud Messaging](https://joaoalves.dev/posts/firebase-android-playground/cloud-messaging/ "Firebase Android Playground - Cloud Messaging")
 
 ----
 
